@@ -14,7 +14,7 @@ COLLEGE: 		IIMT COLLEGE OF ENGINEERING, GREATER NOIDA-201310
 UNIVERSITY: 	APDUL KALAM TECHNICAL UNIVERSIY (AKTU), LUCKNOW-226031
 
 
-## ------------------------------------------INSTRUCTIONS---------------------------------------
+## --------------------INSTRUCTIONS----------------------
 
 1.  ### DEFAULT USERNAME:	IIMTCOE
     ### DEFAULT PASSWORD:	0216
